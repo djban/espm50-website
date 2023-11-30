@@ -65,21 +65,21 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 18.8 <br> Major Export: petroleum & coal products <br> Total CO2: 15.0",
       color: "#e66c5c",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Hawaii.html"
     },
     AK: {
       name: "Alaska",
       description: "Percent GDP per CO2: 6.1 <br> Major Export: fish & and other marine products <br> Total CO2: 36.0",
       color: "#6c00a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Alaska.html"
     },
     FL: {
       name: "Florida",
       description: "Percent GDP per CO2: 7.9 <br> Major Export: computer & electronic products <br> Total CO2: 207.3",
       color: "#8305a7",
       hover_color: "default",
-      url: "default",
+      url: "state_pages/Florida.html",
       inactive: "no"
     },
     NH: {
@@ -87,168 +87,168 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 8.7 <br> Major Export: computer & electronic products <br> Total CO2: 12.4",
       color: "#8d0ba5",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/New_Hampshire.html"
     },
     VT: {
       name: "Vermont",
       description: "Percent GDP per CO2: 4.3 <br> Major Export: computer & electronic products <br> Total CO2: 5.4",
       color: "#5302a3",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Vermont.html"
     },
     ME: {
       name: "Maine",
       description: "Percent GDP per CO2: 1.9 <br> Major Export: fish & and other marine products <br> Total CO2: 13.5",
       color: "#310597",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Maine.html"
     },
     RI: {
       name: "Rhode Island",
       description: "Percent GDP per CO2: 3.3 <br> Major Export: waste and scrap <br> Total CO2: 9.8",
       color: "#46039f",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Rhode_Island.html"
     },
     NY: {
       name: "New York",
       description: "Percent GDP per CO2: 13.5 <br> Major Export: miscellaneous manufactured commodities <br> Total CO2: 143.7",
       color: "#bf3984",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/New_York.html"
     },
     PA: {
       name: "Pennsylvania",
       description: "Percent GDP per CO2: 6.7 <br> Major Export: chemicals <br> Total CO2: 193.4",
       color: "#7401a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Pennsylvania.html"
     },
     NJ: {
       name: "New Jersey",
       description: "Percent GDP per CO2: 14.8 <br> Major Export: chemicals <br> Total CO2: 83.9",
       color: "#ca457a",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/New_Jersey.html"
     },
     DE: {
       name: "Delaware",
       description: "Percent GDP per CO2: 5.1 <br> Major Export: chemicals <br> Total CO2: 12.4",
       color: "#5e01a6",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Delaware.html"
     },
     MD: {
       name: "Maryland",
       description: "Percent GDP per CO2: 10.2 <br> Major Export: transportation equipment <br> Total CO2: 48.1",
       color: "#9e199d",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Maryland.html"
     },
     VA: {
       name: "Virginia",
       description: "Percent GDP per CO2: 17.6 <br> Major Export: chemicals <br> Total CO2: 98.2",
       color: "#de6164",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Virginia.html"
     },
     WV: {
       name: "West Virginia",
       description: "Percent GDP per CO2: 6.4 <br> Major Export: minerals & ores <br> Total CO2: 77.1",
       color: "#6f00a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/West_Virginia.html"
     },
     OH: {
       name: "Ohio",
       description: "Percent GDP per CO2: 5.1 <br> Major Export: transportation equipment <br> Total CO2: 185.8",
       color: "#5e01a6",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Ohio.html"
     },
     IN: {
       name: "Indiana",
       description: "Percent GDP per CO2: 5.6 <br> Major Export: transportation equipment <br> Total CO2: 154.3",
       color: "#6400a7",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Indiana.html"
     },
     IL: {
       name: "Illinois",
       description: "Percent GDP per CO2: 10.8 <br> Major Export: machinery, except electrical <br> Total CO2: 170.2",
       color: "#a51f99",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Illinois.html"
     },
     CT: {
       name: "Connecticut",
       description: "Percent GDP per CO2: 4.5 <br> Major Export: transportation equipment <br> Total CO2: 33.8",
       color: "#5601a4",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Connecticut.html"
     },
     WI: {
       name: "Wisconsin",
       description: "Percent GDP per CO2: 6.1 <br> Major Export: machinery, except electrical <br> Total CO2: 87.1",
       color: "#6c00a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Wisconsin.html"
     },
     NC: {
       name: "North Carolina",
       description: "Percent GDP per CO2: 8.8 <br> Major Export: chemicals <br> Total CO2: 106.4",
       color: "#8e0ca4",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/North_Carolina.html"
     },
     DC: {
       name: "District of Columbia",
       description: "Percent GDP per CO2: 3.9 <br> Major Export: transportation equipment <br> Total CO2: 2.4",
       color: "#4e02a2",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/District of Columbia.html"
     },
     MA: {
       name: "Massachusetts",
       description: "Percent GDP per CO2: 6.6 <br> Major Export: computer & electronic products <br> Total CO2: 52.3",
       color: "#7201a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Massachusetts.html"
     },
     TN: {
       name: "Tennessee",
       description: "Percent GDP per CO2: 15.0 <br> Major Export: transportation equipment <br> Total CO2: 83.2",
       color: "#cc4778",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Tennessee.html"
     },
     AR: {
       name: "Arkansas",
       description: "Percent GDP per CO2: 3.0 <br> Major Export: transportation equipment <br> Total CO2: 54.7",
       color: "#41049d",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Arkansas.html"
     },
     MO: {
       name: "Missouri",
       description: "Percent GDP per CO2: 7.9 <br> Major Export: transportation equipment <br> Total CO2: 108.7",
       color: "#8305a7",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Missouri.html"
     },
     GA: {
       name: "Georgia",
       description: "Percent GDP per CO2: 10.6 <br> Major Export: transportation equipment <br> Total CO2: 116.4",
       color: "#a21d9a",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Georgia.html"
     },
     SC: {
       name: "South Carolina",
       description: "Percent GDP per CO2: 5.7 <br> Major Export: transportation equipment <br> Total CO2: 63.3",
       color: "#6600a7",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/South Carolina.html"
     },
     KY: {
       name: "Kentucky",
@@ -256,168 +256,168 @@ var simplemaps_usmap_mapdata={
       color: "#5901a5",
       zoomable: "no",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Kentucky.html"
     },
     AL: {
       name: "Alabama",
       description: "Percent GDP per CO2: 3.4 <br> Major Export: transportation equipment <br> Total CO2: 98.3",
       color: "#48039f",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Alabama.html"
     },
     LA: {
       name: "Louisiana",
       description: "Percent GDP per CO2: 7.4 <br> Major Export: petroleum & coal products <br> Total CO2: 183.6",
       color: "#7d03a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Louisiana.html"
     },
     MS: {
       name: "Mississippi",
       description: "Percent GDP per CO2: 6.8 <br> Major Export: petroleum & coal products <br> Total CO2: 63.2",
       color: "#7501a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Mississippi.html"
     },
     IA: {
       name: "Iowa",
       description: "Percent GDP per CO2: 2.9 <br> Major Export: machinery, except electrical <br> Total CO2: 65.7",
       color: "#3f049c",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Iowa.html"
     },
     MN: {
       name: "Minnesota",
       description: "Percent GDP per CO2: 6.3 <br> Major Export: computer & electronic products <br> Total CO2: 78.4",
       color: "#6e00a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Minnesota.html"
     },
     OK: {
       name: "Oklahoma",
       description: "Percent GDP per CO2: 6.1 <br> Major Export: machinery, except electrical <br> Total CO2: 83.7",
       color: "#6c00a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Oklahoma.html"
     },
     TX: {
       name: "Texas",
       description: "Percent GDP per CO2: 5.9 <br> Major Export: oil & gas <br> Total CO2: 622.4",
       color: "#6900a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Texas.html"
     },
     NM: {
       name: "New Mexico",
       description: "Percent GDP per CO2: 8.5 <br> Major Export: computer & electronic products <br> Total CO2: 45.2",
       color: "#8a09a5",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/New Mexico.html"
     },
     KS: {
       name: "Kansas",
       description: "Percent GDP per CO2: 6.6 <br> Major Export: transportation equipment <br> Total CO2: 57.8",
       color: "#7201a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Kansas.html"
     },
     NE: {
       name: "Nebraska",
       description: "Percent GDP per CO2: 12.2 <br> Major Export: food manufactures <br> Total CO2: 46.5",
       color: "#b32c8e",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Nebraska.html"
     },
     SD: {
       name: "South Dakota",
       description: "Percent GDP per CO2: 3.4 <br> Major Export: food manufactures <br> Total CO2: 14.9",
       color: "#48039f",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/South Dakota.html"
     },
     ND: {
       name: "North Dakota",
       description: "Percent GDP per CO2: 5.0 <br> Major Export: petroleum & coal products <br> Total CO2: 54.3",
       color: "#5c01a6",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/North Dakota.html"
     },
     WY: {
       name: "Wyoming",
       description: "Percent GDP per CO2: 0.7 <br> Major Export: chemicals <br> Total CO2: 55.6",
       color: "#1b068d",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Wyoming.html"
     },
     MT: {
       name: "Montana",
       description: "Percent GDP per CO2: 2.7 <br> Major Export: chemicals <br> Total CO2: 26.2",
       color: "#3e049c",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Montana.html"
     },
     CO: {
       name: "Colorado",
       description: "Percent GDP per CO2: 10.3 <br> Major Export: computer & electronic products <br> Total CO2: 79.8",
       color: "#9e199d",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Colorado.html"
     },
     UT: {
       name: "Utah",
       description: "Percent GDP per CO2: 7.4 <br> Major Export: primary metal manufacturing <br> Total CO2: 57.2",
       color: "#7d03a8",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Utah.html"
     },
     AZ: {
       name: "Arizona",
       description: "Percent GDP per CO2: 9.2 <br> Major Export: computer & electronic products <br> Total CO2: 79.8",
       color: "#920fa3",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Arizona.html"
     },
     NV: {
       name: "Nevada",
       description: "Percent GDP per CO2: 2.2 <br> Major Export: primary metal manufacturing <br> Total CO2: 36.1",
       color: "#350498",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Nevada.html"
     },
     OR: {
       name: "Oregon",
       description: "Percent GDP per CO2: 9.5 <br> Major Export: machinery, except electrical <br> Total CO2: 37.4",
       color: "#9613a1",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Oregon.html"
     },
     WA: {
       name: "Washington",
       description: "Percent GDP per CO2: 25.9 <br> Major Export: transportation equipment <br> Total CO2: 68.3",
       color: "#fec029",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Washington.html"
     },
     CA: {
       name: "California",
       description: "Percent GDP per CO2: 4.8 <br> Major Export: computer & electronic products <br> Total CO2: 303.7",
       color: "#5901a5",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/California.html"
     },
     MI: {
       name: "Michigan",
       description: "Percent GDP per CO2: 5.4 <br> Major Export: transportation equipment <br> Total CO2: 136.9",
       color: "#6300a7",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Michigan.html"
     },
     ID: {
       name: "Idaho",
       description: "Percent GDP per CO2: 3.6 <br> Major Export: computer & electronic products <br> Total CO2: 19.3",
       color: "#4903a0",
       hover_color: "default",
-      url: "default"
+      url: "state_pages/Idaho.html"
     },
     GU: {
       name: "Guam",
