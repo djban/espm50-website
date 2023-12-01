@@ -1,55 +1,61 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  font-family: 'Poppins', sans-serif; /* Changed font to Poppins */
+  background-color: #f9f9f9; /* Lightened background color */
   margin: 0;
   padding: 0;
+  color: #333;
 }
+
 header {
   background-color: #007BFF;
   color: #fff;
   text-align: center;
   padding: 20px;
 }
-h1 {
-  font-size: 36px;
+
+nav a {
+  text-decoration: none;
+  color: #333; /* Changed link color */
+  margin: 0 15px;
+  font-weight: bold;
+  font-size: 18px;
 }
-.container {
+
+nav a:hover {
+  color: #007BFF; /* Highlight link color on hover */
+}
+
+main {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 20px auto; /* Added margin for better spacing */
   padding: 20px;
+}
+
+h2 {
+  color: #007BFF; /* Adjusted heading color */
+}
+
+p {
+  font-size: 16px; /* Slightly reduced paragraph font size */
+  line-height: 1.6; /* Improved line height for better readability */
+}
+
+.container {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
+
 .person {
   text-align: center;
+  margin-bottom: 20px;
 }
+
 .person img {
   width: 150px;
   height: 150px;
   border-radius: 50%;
   object-fit: cover;
-}
-.person p {
-  font-size: 18px;
-}
-
-h1 {
-  color: #000;
-}
-
-path {
-  stroke: white;
-  /* fill: paleturquoise !important; */
-  transition: fill 0.4s ease;
-}
-
-path:hover {
-  fill: orange !important;
-  cursor: pointer;
-}
-
-path.selected {
-  fill: darkblue !important;
 }
 
 #map-container {
@@ -72,11 +78,11 @@ path.selected {
 #details-box {
   padding: 1rem;
   border-radius: 8px;
-  font-size: 24px;
+  font-size: 18px; /* Adjusted font size */
   position: fixed;
   color: white;
   font-family: "Poppins";
-  background-color: black;
+  background-color: #333; /* Darkened background color */
   width: fit-content;
   transform: translateX(-50%);
   transition: opacity 0.4s ease;

@@ -1,5 +1,4 @@
 /*Copyright 2010-2023 Simplemaps.com
-html5usmapv4.224 
 Use pursuant to license agreement at https://simplemaps.com/license */
 
 /* shifty - v1.5.3 - http://jeremyckahn.github.io/shifty, embedded within map logic*/

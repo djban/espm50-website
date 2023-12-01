@@ -87,7 +87,7 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 8.7 <br> Major Export: computer & electronic products <br> Total CO2: 12.4",
       color: "#8d0ba5",
       hover_color: "default",
-      url: "state_pages/New_Hampshire.html"
+      url: "state_pages/New Hampshire.html"
     },
     VT: {
       name: "Vermont",
@@ -115,7 +115,7 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 13.5 <br> Major Export: miscellaneous manufactured commodities <br> Total CO2: 143.7",
       color: "#bf3984",
       hover_color: "default",
-      url: "state_pages/New_York.html"
+      url: "state_pages/New York.html"
     },
     PA: {
       name: "Pennsylvania",
@@ -129,7 +129,7 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 14.8 <br> Major Export: chemicals <br> Total CO2: 83.9",
       color: "#ca457a",
       hover_color: "default",
-      url: "state_pages/New_Jersey.html"
+      url: "state_pages/New Jersey.html"
     },
     DE: {
       name: "Delaware",
@@ -199,7 +199,7 @@ var simplemaps_usmap_mapdata={
       description: "Percent GDP per CO2: 8.8 <br> Major Export: chemicals <br> Total CO2: 106.4",
       color: "#8e0ca4",
       hover_color: "default",
-      url: "state_pages/North_Carolina.html"
+      url: "state_pages/North Carolina.html"
     },
     DC: {
       name: "District of Columbia",
