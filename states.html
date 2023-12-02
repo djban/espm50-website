@@ -24,20 +24,33 @@
           <a href="states.html">States</a>
           <a href="about.html">About</a>
       </nav>
-  </header>
+    </header>
 
-    <div id="welcome"></div>
-    <h3> Hover over each state to check the Percent GDP per CO2 (how much gdp the state is gaining per tonne of CO2), the major export, and total CO2 in tons.</h1>
-    
+    <div class="states-container">
+      <div id="welcome"></div>
+      <div class = "map-descriptions"> 
+        <h2>
+          Usage Instructions
+        </h2>
+        <p> 
+          Hover over each state to view a quick overview of the state's carbon emissions. This includes the Percent GDP per CO2 (how much GDP the state is gaining per tonne of CO2), the state's major exports, and total CO2 in tons.
+        </p>
+        <p> 
+          Click on each state itself to open a new window with the state's individual webpage depicting detailed annual carbon emissions trends and a brief summary on the state's current carbon emissions status.
+        </p> 
+        <p>
+          Scroll with your mouse or use the + and - buttons to zoom in and out of the map. Note that certain smaller states have dedicated buttons located on the right side of the map for click accessibility.
+        </p> 
+        <h2>Interactive Map</h2>
+      </div>
+      
 
       <div class="map-container">
+        <div id="map"></div>
 
-        <h1>Interactive Map</h1>
-        <div style="max-width: 1000px"> <!-- Keep map above fold -->
-          <div id="map"></div>
-      </div>  
-      <h3> The darker the state, the less GDP per ton of CO2 the state produces. Data shown was for 2021.</h3>
+        <p> In the above interactive map, the color of each state reflects the interdependency of that state's industries on carbon emissions. The darker the state's color, the less GDP per ton of CO2 the state produces. The data shown comes from a 2021 dataset that provides state-level numerical information about carbon emissions.</p>
+      </div>
+    </div>
 
-      <h3> Click on a state to see the yearly progress of each state, and an overview on the states activity.</h3>
   </body>
 </html>
